@@ -86,7 +86,7 @@ namespace Satan
 
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //s
         }        
 
         private void Form1_Load(object sender, EventArgs e)
